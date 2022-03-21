@@ -5,7 +5,7 @@ const Navigationbar = () => {
 
   return (
     <Navbar className='navbar-style' variant="dark">
-    <Container>
+    <Container fluid className='px-5'>
       <Navbar.Brand href="#home">
         <img
           alt=""
