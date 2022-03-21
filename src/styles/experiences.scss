@@ -1,0 +1,25 @@
+$header-color: #cdd6f6;
+$subheader-color: #8992b0;
+
+.header {
+    color: $header-color;
+}
+
+.subheader {
+    color: $subheader-color;
+}
+
+.experiences-height {
+    min-height: 20vh;
+}
+
+.row-align {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-align {
+    margin-left: auto;
+    margin-right: auto;
+}

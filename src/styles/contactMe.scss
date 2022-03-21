@@ -1,0 +1,14 @@
+$header-color: #cdd6f6;
+$subheader-color: #8992b0;
+
+.closing-height {
+    min-height: 60vh;
+}
+
+.header {
+    color: $header-color;
+}
+
+.subheader {
+    color: $subheader-color;
+}

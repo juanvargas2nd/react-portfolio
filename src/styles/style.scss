@@ -1,0 +1,26 @@
+$hero-header-color: #cdd6f6;
+$hero-subheader-color: #8992b0;
+
+
+.h1-hero-header {
+    color: $hero-header-color
+}
+
+.h2-hero-subHeader {
+    color: $hero-subheader-color
+}
+
+.hero-header {
+    min-height: 100vh;
+}
+
+.hero-row {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-col {
+    margin-left: auto;
+    margin-right: auto;
+}
